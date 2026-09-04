@@ -4,11 +4,11 @@ A production-oriented machine learning repository covering the complete machine 
   
 The goal of this repository is to build practical machine learning systems rather than only experimenting with models in notebooks.
 
-It demonstrates how a machine learning model moves through a real-world production workflow:
+It demonstrates how a machine learning model moves through a real-world production workflow:   
 
 ```text
 Raw Data
-   |
+   | 
    v
 Data Validation
    |
