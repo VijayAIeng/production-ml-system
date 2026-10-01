@@ -7,7 +7,7 @@ The goal of this repository is to build practical machine learning systems rathe
 It demonstrates how a machine learning model moves through a real-world production workflow:   
 
 ```text 
-Raw Data
+Raw Data 
    | 
    v
 Data Validation
